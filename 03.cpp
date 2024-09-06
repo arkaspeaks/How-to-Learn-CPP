@@ -4,6 +4,7 @@
 //PRIMITIVE DATA TYPES:
 
 in C++, there are 5 types of data types (roughly):
+
 int
     (takes 4 bytes space, stores integers)
 char
