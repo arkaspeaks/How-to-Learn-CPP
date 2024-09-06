@@ -15,3 +15,5 @@ int main (){
     return 0;
 }
 
+
+//type-casting in the next one
