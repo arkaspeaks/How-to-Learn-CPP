@@ -1,4 +1,4 @@
-/* data types:
+/* DATA TYPES:
 
 
 //PRIMITIVE DATA TYPES:
